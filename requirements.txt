@@ -1,3 +1,6 @@
+﻿pip>=23.0
+setuptools>=67.0
+wheel
 python-telegram-bot==20.3
 tradingview-ta==3.3.0
 pytz==2023.3
